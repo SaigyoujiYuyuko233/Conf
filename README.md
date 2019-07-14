@@ -6,3 +6,4 @@
 | OreGen | 矿物生成 | CustomOreGen |
 | Recipe | 合成调整 | CraftTweaker |
 | Conomy | 经济控制 | TotalConomy |
+| Mods | Mod配置 | 各个Mod |
